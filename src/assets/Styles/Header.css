@@ -1,17 +1,32 @@
 .foto{
-    background: lightblue;
-    border-radius: 50%;
-    width: 11%;
-    height: 12%;
-    margin-right:5%;
+    display: flex;
+    align-items: center;
+}
+#fotop{
+    display: flex;
+    align-items: center;
+    width: 100px;
+    width: 100px;
+}
+#divfoto{
+    display: flex;
+    align-items: center;
+
 }
 
-.header{
+
+header{
     height: 125%;
     display: flex;
     justify-content:center;
+    justify-content: space-between;
     color: #000000;
+    
     border-bottom: 2px #030069 solid;
+}
+
+#nombre{
+    width: 90%;
 }
 
 .Nombre{
