@@ -1,0 +1,19 @@
+.foto{
+    background: lightblue;
+    border-radius: 50%;
+    width: 11%;
+    height: 12%;
+    margin-right:5%;
+}
+
+.header{
+    height: 125%;
+    display: flex;
+    justify-content:center;
+    color: #000000;
+    border-bottom: 2px #030069 solid;
+}
+
+.Nombre{
+    color: #030069; 
+}
