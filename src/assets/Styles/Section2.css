@@ -1,0 +1,10 @@
+.hobbies-container{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.hobbies-container img{
+    width: 300px;
+}
