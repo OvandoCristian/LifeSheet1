@@ -6,7 +6,13 @@ export const data= {
     },
     about:{
         i:"ACERCA DE MI",
-        about:"Estudiante de Ingenieria de Software en la Universidad Politécnica de Chiapas, con promedio actual de 93.76 Actualmente cuento con la edad de 20 Años, soy una persona que sabe trabajar en equipo, responsable, con determinación y capaz de realizar cualquier actividad si se lo propone."
+        about:"Estudiante de Ingenieria de Software en la Universidad Politécnica de Chiapas, con promedio actual de 93.76. Actualmente cuento con la edad de 20 Años, soy una persona que sabe trabajar en equipo, responsable, con determinación y capaz de realizar cualquier actividad si se lo propone.",
+
+    },
+    education:{
+        education:"EDUCACIÓN",
+        uni:"• 4 cuatrimestre en ingenieria de Software",
+        preparatory:"• Bachillerato"
     },
     hobbies:{
         hobbie:"HOBBIES",
@@ -14,6 +20,7 @@ export const data= {
         hobbie2:"• Programar",
         hobbie3:"• Escuchar musica",
         hobbie4:"• Ver peliculas",
+        hobbie5:"• Jugar videojuegos"
     },
     aptitudes:{
        aptitud:"APTITUDES",
@@ -27,11 +34,14 @@ export const data= {
         spanish:"• Idioma materno español",
         english:"• Ingles nivel basico",
     },
-    abilities:{
-        ability:"HABILIDADES",
-        ability1:"Dominio de HTML, CSS Y Javascript (Nivel basico)",
-        ability2:"Conocimiento de las bases de datos MySQL (Nivel basico)",
-        ability3:"Capacidad de liderazgo y trabajo en equipo (Nivel intermedio)",
+    skills:{
+        skill:"HABILIDADES",
+        skill1:"Html",
+        skill2:"Css",
+        skill3:"Java",
+        skill4:"JavaScript",
+        skill5:"c++",
+        skill6:"MysQl",
     },
     social:{
         social:"REDES SOCIALES",
@@ -39,11 +49,11 @@ export const data= {
         insta:"cristian._ovando",
     },
     contact:{
-        school:"Universidad Politecnica de Chiapas.",
+        school:"Universidad Politecnica de Chiapas",
         mail:"ovandogomez60@gmail.com",
         av:"Av 1A SUR PONIENTE S/N",
         neighborhood:"BARR SAN MARTIN",
         postal:"30470 VILLAFLORES, CHIS.",
-        phone:"9651257602",
+        phone:"965 125 76 02",
     },
 }

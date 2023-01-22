@@ -1,0 +1,86 @@
+.Skills-container{
+    display: flex;
+    padding-bottom: 5%;
+    text-align: justify;
+}
+
+.Skills-container img{
+    height: 35vh;
+}
+
+.menu{
+    position: relative;
+    border: 1px solid #030069;
+    border-radius: 20px;
+}
+
+.menu div{
+    justify-content:space-evenly;
+    position: relative;
+    width: 0;
+    height: 5px;
+    border-radius: 10px;
+    background-color: #030069;
+}
+
+#html-menu{
+    animation: html-barra 2s forwards;
+}
+
+#css-menu{
+    animation: css-barra 2s forwards;
+}
+
+#java-menu{
+    animation: java-barra 2s forwards;
+}
+
+#javaScript-menu{
+    animation: javaScript-barra 2s forwards;
+}
+
+#c-menu{
+    animation: c-barra 2s forwards;
+}
+
+#mysql-menu{
+    animation: mysql-barra 2s forwards;
+}
+
+
+@keyframes html-barra{
+    100%{
+        width: 70%;
+    }
+}
+
+@keyframes css-barra{
+    100%{
+        width: 60%;
+    }
+}
+
+@keyframes java-barra{
+    100%{
+        width: 40%;
+    }
+}
+
+@keyframes javaScript-barra{
+    100%{
+        width: 40%;
+    }
+}
+
+@keyframes c-barra{
+    100%{
+        width: 30%;
+    }
+}
+
+
+@keyframes mysql-barra{
+    100%{
+        width: 40%;
+    }
+}

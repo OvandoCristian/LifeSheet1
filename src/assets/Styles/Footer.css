@@ -5,9 +5,9 @@
     text-align: center;
     border-top: 2px hwb(242 0% 59%) solid;
     padding-top: 2%;
+    font-family:'Roboto';
     color: #030069;
 }
 .contact-container img{
-    width: 25px;
-    
+    width: 25px;   
 }

@@ -1,0 +1,13 @@
+.hobbies-container{
+  display: flex;
+  justify-content:space-evenly;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  font-family:'Roboto';
+}
+
+.hobbies-container img{
+  padding-top: 3%;
+  width: 46vh;
+  height: 43vh;
+}

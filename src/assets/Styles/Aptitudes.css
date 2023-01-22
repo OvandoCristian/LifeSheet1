@@ -1,0 +1,10 @@
+.aptitudes-container{
+    display: flex;
+    justify-content:space-evenly;
+    text-align: justify;
+    font-family:'Roboto';
+}
+
+h3{
+    color: #030069;
+}

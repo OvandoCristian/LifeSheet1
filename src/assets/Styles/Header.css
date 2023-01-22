@@ -6,23 +6,23 @@ header{
     flex-wrap: wrap;
     border-bottom: 2px #030069 solid;
     padding-bottom: 2%;
-
+    font-family:'Roboto';
 }
 header div{
     margin-left: 5%;
 }
 
-h1{
-    color: #030069;
+#fotop{
+    width: 120px;
+    width: 120px;
+    border-radius: 50%;
 }
 
 h2{
-    color: #0a0a0a;
+    color: #030069;
 }
 
-#fotop{
-    width: 125px;
-    width: 125px;
-    border-radius: 50%;
+h3{
+    color: #000000;
 }
 
